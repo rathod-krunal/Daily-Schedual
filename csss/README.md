@@ -22,3 +22,11 @@
 #### => the universal selector selects all html elements on the page
 
 #### => the grouping selector selects all the html elements with the same style definitions.
+
+# background
+
+#### => the css background properties are used to add background effects for elements.
+
+#### => the background-color properties the background color of an element
+
+#### => the opacity property specifies the opacity/transparency of an element.
