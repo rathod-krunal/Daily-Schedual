@@ -53,3 +53,11 @@
 #### => a:visited - a link the user has visited
 #### => a:hover - a link when the user mouses over it
 #### => a:active - a link the moment it is clicked
+
+# tables
+
+#### => to specify table borders in css,use the border property.
+
+#### => for table sized of full screen add width:100% to the table element.
+
+#### => the border-collapse property sets whether the table borders should be collapsed into a single border.

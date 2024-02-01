@@ -1,0 +1,17 @@
+/* table border */
+
+table,th,td {
+    border: 1px solid red;
+}
+
+/* full width table */
+table {
+    width: 100%;
+}
+
+/* collapse table borders */
+
+table {
+    border-collapse: collapse;
+}
+
