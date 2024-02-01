@@ -44,3 +44,12 @@
 #### => a  border that goes around the padding and content.
 
 #### => margin clears an area outside the border.the margin in transparent.
+
+# links
+
+#### => links can be styled with any css property(eg color,fint-family,background)
+
+#### => a:link - a normal, unvisited link
+#### => a:visited - a link the user has visited
+#### => a:hover - a link when the user mouses over it
+#### => a:active - a link the moment it is clicked
