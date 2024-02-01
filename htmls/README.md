@@ -69,3 +69,17 @@ The Source file(src),alternative text(alt),width,and height as attributes.
 #### => the HTML pre element defines preformatted text.
 
 #### => the text inside a pre element is displayed in fixed-width font,and it preservers both spaces and line bracks.
+
+# Style
+
+#### => The HTML style attribute is used to add styles to an element,such as color,font,size,and more.
+
+#### => the css background-color property defines the background color for an html element
+
+#### => the css color property defines the text color for an html element
+
+#### => the css font-family property defines the font to be used for an html element
+
+#### => the css font-size propert defines the text size for an html element
+
+#### => the css text-align property defines the horizontal text alignment for an html element.
