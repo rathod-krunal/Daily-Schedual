@@ -83,3 +83,27 @@ The Source file(src),alternative text(alt),width,and height as attributes.
 #### => the css font-size propert defines the text size for an html element
 
 #### => the css text-align property defines the horizontal text alignment for an html element.
+
+# Formating
+
+#### => HTML contains several elements for defining text with a special meaning.
+
+#### => the html b element defines bold text
+
+#### => the html strong element defines text with strong important.the content inside is typically displayed in bold.
+
+#### => the html i element defindes a part of text in an alternate voice or mood.
+
+#### => the html em element defines emphasized text.
+
+#### => the html small element defines smaller text.
+
+#### => the html mark element defines text that should be marked or highlighted.
+
+#### => the html del element defines text that has been deleted from a document.browsers will usually strike a line through deleted text.
+
+#### => the html ins element defines a text that has been inserted into a document. browser will usuallt underline inserted text.
+
+#### => the html sub element defines subscript text. subscript text apperars half a character below the normal line
+
+#### => the html sup element defines superscript text.superscript text appears half a character above the normal line.
