@@ -123,3 +123,11 @@ The Source file(src),alternative text(alt),width,and height as attributes.
 
 #### => the html bdo tag is used to override the current text direction
 #### => bdo stadns for bi-directional override.
+
+# Comments
+
+#### => HTML comments are not displyed in the browser, but they can help document your html source code.
+
+#### => with comments you can place notifications and reminders in your html code.
+
+#### => commments can be used to hide parts in the middle of the html code.
