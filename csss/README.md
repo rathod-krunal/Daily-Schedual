@@ -30,3 +30,17 @@
 #### => the background-color properties the background color of an element
 
 #### => the opacity property specifies the opacity/transparency of an element.
+
+# Box Model
+
+#### => in csss the term box model is used when talking about design and layout.
+
+#### => the css box model is essentially a box that wraps around every html element,is consists of : content,padding,border,and margins. 
+
+#### => the content of the box where text and images appear.
+
+#### => padding clears an area around the content.the padding is transparent.
+
+#### => a  border that goes around the padding and content.
+
+#### => margin clears an area outside the border.the margin in transparent.
