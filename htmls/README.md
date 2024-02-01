@@ -45,3 +45,27 @@ The Source file(src),alternative text(alt),width,and height as attributes.
 #### => the require alt attribute for the img tag specifies an alternate text for an image.
 
 #### => the title attribute defines some extra information about an element.
+
+# Headings
+ 
+#### => HTML Headings are titles or subtitles that you want to display on a webpage.
+
+#### => HTML headings are defined with h1 to h6 tags.
+
+#### => h1 defines the most important heading.h6 defines least important heading.
+
+#### => search engines use the heading to index the structure and content of your web pages.
+
+# Paragraph
+
+#### => a paragraph always starts on a new line,and is usually a block of text.
+
+#### => the hr tag defines a thematic break in HTML page, and most often displayed as a horizontal rule.
+ 
+#### => the hr element is used to separate content in an HTML page.
+
+#### => the HTMLt br element defines a line break.
+
+#### => the HTML pre element defines preformatted text.
+
+#### => the text inside a pre element is displayed in fixed-width font,and it preservers both spaces and line bracks.
