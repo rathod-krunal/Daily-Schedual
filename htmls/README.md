@@ -107,3 +107,19 @@ The Source file(src),alternative text(alt),width,and height as attributes.
 #### => the html sub element defines subscript text. subscript text apperars half a character below the normal line
 
 #### => the html sup element defines superscript text.superscript text appears half a character above the normal line.
+
+# Quotation
+
+#### => the HTML blockquote element defines a section that is quoted from another source.
+
+#### => the html q tag defines a short quotation.
+
+#### => the html abbr tag defines an abbreviation or an acronym like "html","css","my."
+#### => marking abbreviations can give useful information to browsers. translation systems and search-engines.
+
+#### => the html address tag defines the content information for the author.owner of a document or an artical.
+
+#### => the html cite tag defines the title of a creative work(e.g. a book,a poem etc)
+
+#### => the html bdo tag is used to override the current text direction
+#### => bdo stadns for bi-directional override.
